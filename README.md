@@ -1,5 +1,5 @@
 [ ![Download](https://api.bintray.com/packages/bincrafters/public-conan/utf8proc%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/utf8proc%3Abincrafters/_latestVersion)
-[![Build Status](https://travis-ci.org/bincrafters/conan-utf8proc.svg?branch=stable%2F0.0.0)](https://travis-ci.org/bincrafters/conan-utf8proc)
+[![Build Status](https://travis-ci.com/bincrafters/conan-utf8proc.svg?branch=stable%2F0.0.0)](https://travis-ci.com/bincrafters/conan-utf8proc)
 [![Build status](https://ci.appveyor.com/api/projects/status/sxs9n6vb8nqa92l5?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-utf8proc)
 
 [Conan.io](https://conan.io) package for [utf8proc](https://github.com/JuliaLang/utf8proc/) project

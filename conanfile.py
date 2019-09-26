@@ -13,7 +13,7 @@ class UtfprocConan(ConanFile):
     license = "https://github.com/JuliaLang/utf8proc/blob/master/LICENSE.md"
     settings = "os", "arch", "compiler", "build_type"
     options = {"shared": [False]}
-    default_options = "shared=False"
+    default_options = {'shared': 'False'}
     export = ['utf8proc.h']
 
     def source(self):
